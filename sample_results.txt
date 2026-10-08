@@ -1,0 +1,93 @@
+==============================================================================
+Q1. What is Agentic AI?
+confidence: 0.5658   grounded: True
+------------------------------------------------------------------------------
+Agentic AI refers to systems that can autonomously decide and act to pursue specific objectives (excerpt 2). These agents are goal‑driven, learning continuously and adapting to new situations (excerpt 3). They act independently, anticipate needs, and focus on achieving defined goals rather than merely following static rules (excerpt 4).
+-- 4 chunk(s) retrieved --
+   [1] page 7  score 0.6064  chunk_id 6
+   [2] page 18  score 0.5697  chunk_id 22
+   [3] page 9  score 0.5482  chunk_id 10
+   [4] page 11  score 0.5391  chunk_id 14
+
+==============================================================================
+Q2. How does Agentic AI differ from traditional AI and from plain LLMs?
+confidence: 0.5833   grounded: True
+------------------------------------------------------------------------------
+Agentic AI differs from traditional AI in that it is autonomous, goal‑driven, and continuously learns, whereas traditional AI is rule‑based, reactive, and lacks independent action (excerpt 1, 4).  
+Compared with plain LLMs, Agentic AI adds decision‑making, proactive behavior, and the ability to act in a dynamic environment, while LLMs simply generate text in response to prompts and do not make autonomous decisions (excerpt 1, 2).  
+Thus, Agentic AI combines the generative power of LLMs with autonomous, context‑aware action to achieve real‑world impact (excerpt 2).
+-- 4 chunk(s) retrieved --
+   [1] page 9  score 0.6682  chunk_id 10
+   [2] page 10  score 0.5914  chunk_id 12
+   [3] page 7  score 0.5607  chunk_id 6
+   [4] page 11  score 0.5127  chunk_id 14
+
+==============================================================================
+Q3. What are the main capabilities of Agentic AI?
+confidence: 0.5555   grounded: True
+------------------------------------------------------------------------------
+Agentic AI’s core capabilities include:
+
+- **Autonomy**: operating independently once objectives are set (excerpt 2).  
+- **Decision‑making**: analyzing data to make informed choices (excerpt 2).  
+- **Adaptability**: adjusting strategies based on real‑time inputs (excerpt 2).  
+- **Language understanding**: interpreting natural‑language instructions (excerpt 2).  
+- **Workflow optimization**: enhancing processes by identifying efficiencies (excerpt 2).  
+
+Additionally, it learns continuously, focuses on goals, acts independently, anticipates needs, adapts to change, and aligns actions with business objectives (excerpt 4).
+-- 4 chunk(s) retrieved --
+   [1] page 9  score 0.5948  chunk_id 10
+   [2] page 12  score 0.5742  chunk_id 15
+   [3] page 7  score 0.5379  chunk_id 6
+   [4] page 11  score 0.5153  chunk_id 14
+
+==============================================================================
+Q4. What is a multi-agent system and how does it work?
+confidence: 0.5291   grounded: True
+------------------------------------------------------------------------------
+A multi‑agent system (MAS) is an agentic architecture that contains multiple agents—at least one worker and one utility agent—working toward clear goals (excerpt 2). These agents can operate independently, allowing dynamic task allocation and parallel processing, which is especially useful for complex, dynamic tasks (excerpt 1). MAS can be organized hierarchically, where agents act within a specific domain, or in a peer‑to‑peer fashion, enabling any agent to communicate with any other (excerpt 2). Communication is essential; agents exchange information, negotiate tasks, and collaborate using well‑defined protocols and languages to avoid misunderstandings (excerpt 4). Through this coordinated interaction, MAS verify work, adapt in real time, and improve task outcomes (excerpt 1).
+-- 4 chunk(s) retrieved --
+   [1] page 30  score 0.5603  chunk_id 48
+   [2] page 31  score 0.5382  chunk_id 52
+   [3] page 29  score 0.5133  chunk_id 47
+   [4] page 40  score 0.5045  chunk_id 71
+
+==============================================================================
+Q5. What are the challenges of orchestrating multi-agent systems?
+confidence: 0.6399   grounded: True
+------------------------------------------------------------------------------
+The main challenges of orchestrating multi‑agent systems include:
+
+1. **Complex system design and sophisticated orchestration** that must manage inter‑agent communication and dependencies (excerpt 2).  
+2. **Interoperability, data security, and conflict resolution** issues that arise when agents share sensitive data or have competing priorities (excerpt 2).  
+3. **Scalability and logistical challenges** such as dynamic scaling, resource allocation, and adding or removing agents without disrupting performance (excerpt 4).  
+4. **Reliability and fault tolerance** requirements to prevent a single agent’s failure from compromising the entire system (excerpt 4).  
+5. **High implementation cost and slow development** due to the need for advanced orchestration frameworks and clear requirements (excerpt 2).
+-- 4 chunk(s) retrieved --
+   [1] page 37  score 0.6836  chunk_id 66
+   [2] page 36  score 0.6311  chunk_id 64
+   [3] page 38  score 0.6229  chunk_id 67
+   [4] page 39  score 0.6221  chunk_id 70
+
+==============================================================================
+Q6. What benefits did the retail company report after adopting Agentic AI?
+confidence: 0.5792   grounded: True
+------------------------------------------------------------------------------
+The retail company reported that after adopting Agentic AI, customer engagement rose by 25%, conversion rates increased by 15%, and support costs were reduced through automation of common inquiries (excerpt 4).
+-- 4 chunk(s) retrieved --
+   [1] page 13  score 0.6497  chunk_id 16
+   [2] page 12  score 0.6285  chunk_id 15
+   [3] page 54  score 0.5223  chunk_id 106
+   [4] page 58  score 0.5164  chunk_id 114
+
+==============================================================================
+Q7. Who won the 2026 FIFA World Cup?
+confidence: 0.104   grounded: False
+------------------------------------------------------------------------------
+I could not find this in the provided knowledge base.
+-- 4 chunk(s) retrieved --
+   [1] page 57  score 0.104  chunk_id 113
+   [2] page 28  score 0.1013  chunk_id 46
+   [3] page 55  score 0.0945  chunk_id 107
+   [4] page 57  score 0.0939  chunk_id 112
+
