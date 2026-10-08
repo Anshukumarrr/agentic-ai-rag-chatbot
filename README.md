@@ -76,7 +76,7 @@ questions cannot be answered from the model's own knowledge.
 Requires **Python 3.10+**.
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Anshukumarrr/agentic-ai-rag-chatbot
 cd appening-rag-chatbot
 
 python -m venv .venv
